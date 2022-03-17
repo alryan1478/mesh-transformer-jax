@@ -1,2 +1,2 @@
-gs://gpt-development-awr-1478/gpt-j/train_index/fires_train_941.tfrecords
-gs://gpt-development-awr-1478/gpt-j/train_index/ussoc_train_5204.tfrecords
+gs://gpt-j-development-awr-1478/gpt-j/train_index/fires_train_941.tfrecords
+gs://gpt-j-development-awr-1478/gpt-j/train_index/ussoc_train_5204.tfrecords
