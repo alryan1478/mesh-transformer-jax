@@ -25,7 +25,7 @@
   "model_dir": "gpt-j-development-awr-1478/gpt-j/model_checkpoints/",
 
   "train_set": "fires_ussoc.train.index",
-  "val_set": "fires_ussoc.val.index",
+  "val_set": {},
 
   "eval_harness_tasks": [
     "lambada",
