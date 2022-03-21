@@ -21,8 +21,8 @@
 
   "tpu_size": 8,
 
-  "bucket": "gpt-j-development-awr-1478",
-  "model_dir": "gpt-j/model_checkpoints/",
+  "bucket": "gptj-development-awr-1478",
+  "model_dir": "gpt-j-development-awr-1478/gpt-j/model_checkpoints/",
 
   "train_set": "fires_ussoc.train.index",
   "val_set": "fires_ussoc.val.index",
